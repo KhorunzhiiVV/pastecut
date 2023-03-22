@@ -1,4 +1,4 @@
-package ru.khorunzhii.pastecut.controller;
+package ru.khorunzhii.pastecut.controllers;
 
 
 import org.springframework.web.bind.annotation.*;
